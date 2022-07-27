@@ -1,3 +1,3 @@
-# auto-animate-react-wfunfv
+# auto-animate-react
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/auto-animate-react-wfunfv)
+[Edit on Codesandbox](https://codesandbox.io/s/auto-animate-react-ywf45w-ywf45w)
